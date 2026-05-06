@@ -1,101 +1,75 @@
-# Hi, I'm Chaitanya 👋
+<div align="center">
 
-## AI Engineer / Data Scientist  
-Building production-ready GenAI applications with **RAG, AI Agents, Azure OpenAI, Python, FastAPI, Azure AI Search, LangChain, and LlamaIndex**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Chaitanya%20Reddy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%7C%20AI%20Agents%20%7C%20Azure%20OpenAI&descAlignY=58&descSize=18" />
 
-I focus on turning AI prototypes into usable systems: retrieval pipelines, semantic search, agent workflows, API-backed AI applications, NLP pipelines, and cloud-native solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+GenAI+systems+that+move+beyond+demos;RAG+Systems+%7C+AI+Agents+%7C+Azure+OpenAI;LLM+Apps+%7C+Semantic+Search+%7C+FastAPI;Turning+messy+data+into+useful+AI+products" alt="Typing SVG" />
 
----
+<br/>
 
-## What I Build
+<img src="https://komarev.com/ghpvc/?username=CKRG2001&style=for-the-badge&color=00C9FF" />
+<img src="https://img.shields.io/badge/AI%20Engineer-GenAI-00C9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Systems-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-Automation-00FF88?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-Cloud%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-H1B%20Transfer-FF8C00?style=for-the-badge" />
 
-### GenAI & RAG Systems
-- Retrieval-Augmented Generation pipelines using vector, semantic, and hybrid search
-- Document Q&A systems with embeddings, reranking, query expansion, and evaluation
-- Azure OpenAI-based applications integrated with Azure AI Search and backend APIs
-
-### AI Agents & Automation
-- Agentic workflows for task automation, decision support, and recruiter/search use cases
-- Multi-step reasoning pipelines using LLMs, tools, APIs, and structured outputs
-- Backend services for AI applications using Python and FastAPI
-
-### NLP & Applied Machine Learning
-- Sentiment analysis, text classification, and review mining using transformer models
-- End-to-end ML/NLP pipelines with dashboards for business insights
-- Data analysis workflows using Python, SQL, pandas, and visualization tools
+</div>
 
 ---
 
-## Featured Projects
+## 👋 Hey, I'm Chaitanya
 
-### RAG-Based Recruiter Assistant
-Built an LLM-powered recruiter assistant for semantic resume search and candidate insights.
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-**Highlights**
-- Used vector search for resume retrieval
-- Added query expansion and reranking to improve search quality
-- Designed recruiter-style Q&A for candidate screening
-- Built an interactive interface for search and analysis
+I’m an **AI Engineer / Data Scientist** building GenAI systems around:
 
-**Tech:** Python, LLaMA 3, ChromaDB, RAG, Vector Search, Streamlit
+✨ **RAG pipelines**  
+🤖 **AI agents**  
+🔎 **semantic / vector / hybrid search**  
+⚡ **FastAPI backend services**  
+☁️ **Azure OpenAI + Azure AI Search**  
+🧠 **NLP and applied ML pipelines**
 
----
+I like building AI systems that can **search, retrieve, reason, classify, automate, and return something useful**.
 
-### McDonald’s Review NLP Pipeline
-Built an NLP pipeline to analyze 33K+ customer reviews and identify complaint drivers.
+Not just notebooks.  
+Not just prompts.  
+I build systems that look closer to products.
 
-**Highlights**
-- Used transformer models for sentiment analysis and zero-shot classification
-- Created complaint category insights from unstructured customer feedback
-- Built a Streamlit dashboard to track KPIs and recurring issues
-
-**Tech:** Python, DistilBERT, BART, NLP, Streamlit, pandas
+<br clear="right"/>
 
 ---
 
-### Data Science & Analytics Projects
-Additional projects covering SQL analysis, prediction models, churn analysis, stock analysis, and exploratory data analysis.
+## 🧠 My AI Playground
 
-**Tech:** Python, SQL, Jupyter Notebook, Machine Learning, Data Visualization
+<div align="center">
 
----
-
-## Core Tech Stack
-
-**GenAI / LLMs:** Azure OpenAI, RAG, AI Agents, LangChain, LlamaIndex, Prompt Engineering  
-**Search & Retrieval:** Azure AI Search, Vector Search, Semantic Search, Hybrid Search, ChromaDB  
-**Backend:** Python, FastAPI, REST APIs, Azure Functions  
-**Data / ML:** SQL, pandas, scikit-learn, NLP, Transformers, Streamlit  
-**Cloud:** Microsoft Azure, Cosmos DB, Cloud-native AI Applications  
-
----
-
-## Current Focus
-
-- Building production-grade RAG and AI agent systems
-- Improving retrieval quality with reranking, evaluation, and hybrid search
-- Designing practical GenAI applications for business workflows
-- Applying LLMs to recruiting, document intelligence, NLP, and automation use cases
-
----
-
-## Open to Roles
-
-I’m open to opportunities in:
-
-- AI Engineer
-- GenAI Engineer
-- Machine Learning Engineer
-- Data Scientist
-- NLP Engineer
-- Applied AI Engineer
-
-Currently seeking roles with **H1B transfer sponsorship**.
-
----
-
-## Connect
-
-- LinkedIn: [Add your LinkedIn here]
-- Portfolio: [Add your portfolio here]
-- Email: [Add professional email here]
+```txt
+           ┌──────────────────────┐
+           │   Messy Data / Docs   │
+           └──────────┬───────────┘
+                      │
+                      ▼
+        ┌────────────────────────────┐
+        │ Chunking + Cleaning + NLP   │
+        └──────────┬─────────────────┘
+                   │
+                   ▼
+        ┌────────────────────────────┐
+        │ Embeddings + Vector Search  │
+        └──────────┬─────────────────┘
+                   │
+                   ▼
+        ┌────────────────────────────┐
+        │ RAG Retriever / AI Agent    │
+        └──────────┬─────────────────┘
+                   │
+                   ▼
+        ┌────────────────────────────┐
+        │ LLM Response + Automation   │
+        └──────────┬─────────────────┘
+                   │
+                   ▼
+        ┌────────────────────────────┐
+        │ Useful Business Workflow    │
+        └────────────────────────────┘
