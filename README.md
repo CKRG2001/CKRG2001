@@ -54,7 +54,7 @@ I am especially interested in roles such as:
 </tr>
 </table>
 
-> I am open to full-time AI/ML/Data Science opportunities and require **H1B transfer sponsorship**.
+> I am open to full-time AI/ML/Data Science opportunities.
 
 ---
 
