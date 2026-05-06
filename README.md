@@ -46,30 +46,30 @@ I build systems that look closer to products.
 
 ```txt
            ┌──────────────────────┐
-           │   Messy Data / Docs   │
+           │   Messy Data / Docs  │
            └──────────┬───────────┘
                       │
                       ▼
         ┌────────────────────────────┐
-        │ Chunking + Cleaning + NLP   │
+        │ Chunking + Cleaning + NLP  │
         └──────────┬─────────────────┘
                    │
                    ▼
         ┌────────────────────────────┐
-        │ Embeddings + Vector Search  │
+        │ Embeddings + Vector Search │
         └──────────┬─────────────────┘
                    │
                    ▼
         ┌────────────────────────────┐
-        │ RAG Retriever / AI Agent    │
+        │ RAG Retriever / AI Agent   │
         └──────────┬─────────────────┘
                    │
                    ▼
         ┌────────────────────────────┐
-        │ LLM Response + Automation   │
+        │ LLM Response + Automation  │
         └──────────┬─────────────────┘
                    │
                    ▼
         ┌────────────────────────────┐
-        │ Useful Business Workflow    │
+        │ Useful Business Workflow   │
         └────────────────────────────┘
