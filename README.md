@@ -202,6 +202,24 @@ I like building AI systems that are:
 
 ---
 
+## 🖼️ Screenshots & Demo Preview
+
+Add your strongest visual proof here.
+
+### Recruiter Assistant Demo
+
+<img src="assets/recruiter-assistant-demo.gif" alt="Recruiter Assistant Demo" width="100%" />
+
+### Resume Search Results
+
+<img src="assets/screenshot-results.png" alt="Semantic Resume Search Results" width="100%" />
+
+### NLP Dashboard
+
+<img src="assets/mcdonalds-nlp-dashboard.png" alt="NLP Review Analytics Dashboard" width="100%" />
+
+---
+
 ## 🧰 Tools I Work With
 
 ```mermaid
@@ -220,6 +238,7 @@ flowchart LR
     GenAI --> Agents[AI Agents]
     GenAI --> VectorDB[Vector Databases]
     VectorDB --> Chroma[ChromaDB]
+    VectorDB --> Pinecone
     RAG --> SemanticSearch[Semantic Search]
     RAG --> HybridSearch[Hybrid Search]
 ```
@@ -251,10 +270,12 @@ I require **H1B transfer sponsorship** and am open to discussing opportunities w
   <a href="https://github.com/CKRG2001">
     <img src="https://img.shields.io/badge/GitHub-CKRG2001-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/chaitanya-reddy-genai">
+  <!-- Replace this with your LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:chaitanya3168@gmail.com">
+  <!-- Replace this with your email -->
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
