@@ -202,24 +202,6 @@ I like building AI systems that are:
 
 ---
 
-## 🖼️ Screenshots & Demo Preview
-
-Add your strongest visual proof here.
-
-### Recruiter Assistant Demo
-
-<img src="assets/recruiter-assistant-demo.gif" alt="Recruiter Assistant Demo" width="100%" />
-
-### Resume Search Results
-
-<img src="assets/screenshot-results.png" alt="Semantic Resume Search Results" width="100%" />
-
-### NLP Dashboard
-
-<img src="assets/mcdonalds-nlp-dashboard.png" alt="NLP Review Analytics Dashboard" width="100%" />
-
----
-
 ## 🧰 Tools I Work With
 
 ```mermaid
