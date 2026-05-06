@@ -180,14 +180,12 @@ mindmap
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CKRG2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chaitanya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CKRG2001&theme=tokyonight&hide_border=true" alt="Chaitanya's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CKRG2001&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKRG2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKRG2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🧪 How I Think About AI Engineering
