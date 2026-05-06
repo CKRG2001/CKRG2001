@@ -135,97 +135,6 @@ I enjoy building systems that include:
 
 ---
 
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🔎 RAG-Based Recruiter Assistant
-
-LLM-powered recruiter assistant for **semantic resume search**, candidate Q&A, and recruiter-style decision support.
-
-<img src="assets/recruiter-assistant-demo.gif" alt="RAG Recruiter Assistant Demo" width="100%" />
-
-### What it does
-
-- Performs semantic resume search across candidate profiles  
-- Uses RAG to answer recruiter questions about candidates  
-- Supports query expansion, vector search, and reranking  
-- Produces recruiter-style insights instead of raw keyword matches  
-- Helps identify relevant candidates based on skills, experience, and role fit  
-
-### Tech Stack
-
-`Python` · `LLaMA 3` · `ChromaDB` · `RAG` · `Vector Search` · `Streamlit`
-
-### Suggested Assets
-
-- `assets/recruiter-assistant-demo.gif`
-- `assets/recruiter-assistant-architecture.png`
-- `assets/screenshot-results.png`
-
-</td>
-<td width="50%" valign="top">
-
-## 🍟 McDonald’s Review NLP Pipeline
-
-NLP pipeline analyzing **33K+ customer reviews** to extract sentiment trends, complaint drivers, recurring business issues, and KPI insights.
-
-<img src="assets/mcdonalds-nlp-dashboard.png" alt="McDonald's Review NLP Dashboard" width="100%" />
-
-### What it does
-
-- Analyzes large-scale customer review text  
-- Extracts sentiment patterns and complaint themes  
-- Identifies recurring operational and customer experience issues  
-- Uses summarization to convert review text into business insights  
-- Presents findings through an interactive dashboard  
-
-### Tech Stack
-
-`Python` · `DistilBERT` · `BART` · `NLP` · `pandas` · `Streamlit`
-
-### Suggested Assets
-
-- `assets/mcdonalds-nlp-dashboard.png`
-- `assets/mcdonalds-nlp-insights.png`
-- `assets/demo.gif`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Project Architecture Example
-
-Use this section to show how your GenAI projects are structured.
-
-<img src="assets/architecture.png" alt="AI System Architecture" width="100%" />
-
-```mermaid
-flowchart TD
-    A[User Query] --> B[Query Understanding]
-    B --> C[Query Expansion]
-    C --> D[Embedding Model]
-    D --> E[Vector Database]
-    E --> F[Semantic Search]
-    F --> G[Reranking]
-    G --> H[Retrieved Context]
-    H --> I[LLM Response Generation]
-    I --> J[Structured Answer]
-    J --> K[Streamlit / FastAPI Interface]
-
-    style A fill:#111827,stroke:#60a5fa,color:#ffffff
-    style E fill:#312e81,stroke:#a78bfa,color:#ffffff
-    style G fill:#7f1d1d,stroke:#fca5a5,color:#ffffff
-    style I fill:#064e3b,stroke:#6ee7b7,color:#ffffff
-    style K fill:#1e3a8a,stroke:#93c5fd,color:#ffffff
-```
-
----
-
 ## 🎯 Focus Areas
 
 ```mermaid
@@ -360,12 +269,10 @@ I require **H1B transfer sponsorship** and am open to discussing opportunities w
   <a href="https://github.com/CKRG2001">
     <img src="https://img.shields.io/badge/GitHub-CKRG2001-181717?style=for-the-badge&logo=github" />
   </a>
-  <!-- Replace this with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="www.linkedin.com/in/chaitanya-reddy-genai">
     <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <!-- Replace this with your email -->
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:chaitanya3168@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
