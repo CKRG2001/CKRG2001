@@ -182,10 +182,6 @@ mindmap
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CKRG2001&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKRG2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
 ---
 
 ## 🧪 How I Think About AI Engineering
