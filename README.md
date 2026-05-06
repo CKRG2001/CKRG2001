@@ -235,10 +235,6 @@ I am open to roles where I can build applied AI systems across GenAI, NLP, retri
 - Data Scientist  
 - NLP Engineer  
 
-### Work Authorization
-
-I require **H1B transfer sponsorship** and am open to discussing opportunities with employers who support visa sponsorship.
-
 ---
 
 ## 📫 Connect With Me
