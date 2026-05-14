@@ -27,7 +27,6 @@ AI Engineer / Data Scientist building GenAI systems with RAG, AI Agents, Azure O
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CKRG2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Roles-success?style=flat-square" alt="Open to AI ML Roles" />
-  <img src="https://img.shields.io/badge/H1B%20Transfer-Sponsorship%20Required-blueviolet?style=flat-square" alt="H1B Transfer Sponsorship Required" />
   <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20NLP-orange?style=flat-square" alt="Focus Areas" />
 </p>
 
